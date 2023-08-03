@@ -9,3 +9,5 @@ The second is this link: https://stackoverflow.com/questions/6181935/how-do-you-
 This one is for the big loop near the end where I looped over the different drugs and created lists to store their data in. I was struggling to figure out how to make variables in the loop that I could actually loop on so that I wasn't just putting all the volume data into one list regardless of drug regimen. This answer helped me realize dictionaries could let me do that much easier than how I was doing it.
 
 I also want to mention that for the regression line I based it heavily on the fits and regression activity we did in class. 
+
+Overall I found this fairly challenging but very doable.
